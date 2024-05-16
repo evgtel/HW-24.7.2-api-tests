@@ -16,6 +16,7 @@ invalid_email = 'ya1@'
 invalid_password = 'ya2'
 invalid_auth_key = '00000148a1f19838e1c5d1413877f3691a3731380e733e1111111111'
 invalid_pet_photo = 'images\\photo.txt'
+
 load_dotenv()
 
 valid_email = os.getenv('valid_email')
